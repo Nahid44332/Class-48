@@ -1,0 +1,13 @@
+
+
+new mysqli ('hostname','username','password','databashname');
+
+SELECT * FORM students;
+
+mysqli_query('$connection', 'query');
+
+$i = 0;
+
+while(range){
+    
+}
