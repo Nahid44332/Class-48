@@ -11,3 +11,8 @@ $i = 0;
 while(range){
     
 }
+
+    INSERT INTO students (name , roll, class, phone_number, email, address) VALUES ('Akash', 56, 'six', '+88018XXXXXXXX', 'akash@gmail.com','Gazipur sadar');
+
+$_GET
+$_POST
