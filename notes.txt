@@ -14,5 +14,20 @@ while(range){
 
     INSERT INTO students (name , roll, class, phone_number, email, address) VALUES ('Akash', 56, 'six', '+88018XXXXXXXX', 'akash@gmail.com','Gazipur sadar');
 
+1. GET
+2. POST
+3. PUT
+4. DELETE
+
+
+
+
 $_GET
 $_POST
+
+
+DELETE FROM students WHERE id=;
+
+SELECT * FROM students WHERE id=;
+
+UPDATE students SET name = 'name' WHERE id = ; 
